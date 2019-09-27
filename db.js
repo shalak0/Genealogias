@@ -1,0 +1,153 @@
+	searchname = 'buscador.htm'
+	
+	usebannercode=true
+	ButtonCode = "<img src='searchbutton.gif' border=0>" 
+	
+	function templateBody() {
+		document.write('<html><head><title>Buscador</title><'+
+		'script language="Javascript">'+
+		'<'+'/'+'script'+'></head><body bgcolor="#FFFFFF" text="#000000" link="#000099" vlink="#996699" alink="#996699"><Center><font face="Arial" size="1"><font face=Verdana size=2><b>Pudes escribir el nombre de la persona que buscas </b></font><table border=0 width=440><tr><td>');
+	}
+
+	function templateEnd() {
+		document.write('</td></tr></table></font></center></body></html>');
+	}
+	function bannerCode() {
+	}	
+
+/* end configuration settings */
+
+/* database records */
+
+add("<a href='http://www.genesis.iespana.es/alejandro0.htm'>Alejandro Aznarez Iguacel </a>","Alejandro ","")
+add("<a href='http://www.genesis.iespana.es/andres1.htm'>Andres Marraco </a>","Andres ","")
+add("<a href='http://www.genesis.iespana.es/braulio1.htm'>Braulio Aznarez Vicente </a>","Braulio ","")
+add("<a href='http://www.genesis.iespana.es/carlosm2.htm'>Carlos Marraco Aznarez </a>","Carlos ","")
+add("<a href='http://www.genesis.iespana.es/concha1.htm'>Concha Aznarez Vicente </a>","Concha ","")
+add("<a href='http://www.genesis.iespana.es/conchao3.htm'>Concha Osset Vicente </a>","Concha ","")
+add("<a href='http://www.genesis.iespana.es/dionisia1.htm'>Dionisia Aznarez Vicente </a>","Dionisia ","")
+add("<a href='http://www.genesis.iespana.es/domingo1.htm'>Domingo Aguilar Román </a>","Domingo ","")
+add("<a href='http://www.genesis.iespana.es/elvira1.htm'>Concepción (Elvira) Canga </a>","Elvira ","concepción")
+add("<a href='http://www.genesis.iespana.es/enriqueo2.htm'>Enrique Osset </a>","Enrique ","")
+add("<a href='http://www.genesis.iespana.es/gabino0.htm'>Gabino Aznarez Iguacel </a>","Gabino ","")
+add("<a href='http://www.genesis.iespana.es/genoveva1.htm'>Genoveva Aznarez Vicente </a>","Genoveva ","")
+add("<a href='http://www.genesis.iespana.es/gregoria1.htm'>Gregoria Aznarez Vicente </a>","Gregoria ","")
+add("<a href='http://www.genesis.iespana.es/jorge3.htm'>Jorge Wassington </a>","Jorge ","")
+add("<a href='http://www.genesis.iespana.es/josefa0.htm'>Josefa Vicente Alastuey </a>","Josefa ","")
+add("<a href='http://www.genesis.iespana.es/josefa01.htm'>Josefa Iguacel </a>","Josefa ","")
+add("<a href='http://www.genesis.iespana.es/juan01.htm'>Juan Vicente Rodriguez </a>","Juan ","")
+add("<a href='http://www.genesis.iespana.es/manuela01.htm'>Manuela Alastuey Ramirez </a>","Manuela ","")
+add("<a href='http://www.genesis.iespana.es/laura3.htm'>Laura Marraco Abad </a>","Laura ","")
+add("<a href='http://www.genesis.iespana.es/maluisa2.htm'>María Luisa Vicente Martinez </a>","María Luisa ","Marisa")
+add("<a href='http://www.genesis.iespana.es/manuel01.htm'>Manuel Aznarez y Marraco </a>","Manuel ","")
+add("<a href='http://www.genesis.iespana.es/manuel1.htm'>Manuel Aznarez Vicente  </a>","Manuel ","")
+add("<a href='http://www.genesis.iespana.es/manuel3.htm'>Manuel Aznarez Aguilar </a>","Manuel ","")
+add("<a href='http://www.genesis.iespana.es/manuelv1.htm'>Manuel Vicente García </a>","Manuel ","")
+add("<a href='http://www.genesis.iespana.es/olga2.htm'>Olga Marraco Aznarez </a>","Olga ","")
+add("<a href='http://www.genesis.iespana.es/pablo3.htm'>Pablo Aznarez Aguilar </a>","Pablo ","")
+add("<a href='http://www.genesis.iespana.es/pilar1.htm'>Pilar Martinez Astavicorena </a>","Pilar ","")
+add("<a href='http://www.genesis.iespana.es/rafaela1.htm'>Rafaela Aznarez Vicente </a>","Rafaela ","")
+add("<a href='http://www.genesis.iespana.es/ramon0.htm'>Ramón Vicente Alastuey </a>","Ramón ","")
+add("<a href='http://www.genesis.iespana.es/ricardo2.htm'>Ricardo Aznarez Canga </a>","Ricardo ","")
+add("<a href='http://www.genesis.iespana.es/rosaura1.htm'>Rosaura Aznarez Vicente </a>","Rosaura ","")
+add("<a href='http://www.genesis.iespana.es/alejandro1.htm'>Alejandro Aznarez Vicente </a>","Alejandro","")
+add("<a href='http://www.genesis.iespana.es/jeanette1.htm'>Jeanette Soudre </a>","Jeanette","Ana")
+add("<a href='http://www.genesis.iespana.es/josephine2.htm'>Josephine Aznarez Soudre </a>","Josephine","")
+add("<a href='http://www.genesis.iespana.es/jacques2.htm'>Jacques Roy </a>","Jacques","")
+add("<a href='http://www.genesis.iespana.es/jacqueline3.htm'>Jacqueline Roy Aznarez </a>","Jacqueline","")
+add("<a href='http://www.genesis.iespana.es/victor3.htm'>Victor Tino </a>","Victor","")
+add("<a href='http://www.genesis.iespana.es/andree2.htm'>Andreé Aznarez Soudre </a>","Andreé","")
+add("<a href='http://www.genesis.iespana.es/pierre2.htm'>Pierre Aznarez Soudre </a>","Pierre","")
+add("<a href='http://www.genesis.iespana.es/michele2.htm'>Michele Geneveve Aznarez Soudre </a>","Michele","")
+add("<a href='http://www.genesis.iespana.es/robert2.htm'>Robert Harrison Hines </a>","Robert","")
+add("<a href='http://www.genesis.iespana.es/luisa1.htm'>Luisa Vicente García </a>","Luisa","")
+add("<a href='http://www.genesis.iespana.es/daniel1.htm'>Andreé Aznarez Soudre </a>","Pierre","")
+add("<a href='http://www.genesis.iespana.es/maangel2.htm'>María Angel Moya Vicente </a>","María","")
+add("<a href='http://www.genesis.iespana.es/rafael2.htm'>Rafael Rodriguez </a>","Rafael","")
+add("<a href='http://www.genesis.iespana.es/damian2.htm'>Damian Montalt </a>","Damian","")
+add("<a href='http://www.genesis.iespana.es/begonia2.htm'>Begoña Moya Vicente </a>","María","")
+add("<a href='http://www.genesis.iespana.es/danielm2.htm'>Daniel Moya Vicente </a>","Daniel","")
+add("<a href='http://www.genesis.iespana.es/angelines2.htm'>Angelines Pastor </a>","Angelines","")
+add("<a href='http://www.genesis.iespana.es/pruden3.htm'>Prudencio Medel </a>","Prudencio","Pruden")
+add("<a href='http://www.genesis.iespana.es/enriqueo3.htm'>Enrique Osset Vicente </a>","Enrique","")
+add("<a href='http://www.genesis.iespana.es/antonia3.htm'>Antonia Bonel </a>","Antonia","")
+add("<a href='http://www.genesis.iespana.es/rafaela01.htm'>Rafaela Iguacel </a>","Rafaela","")
+add("<a href='http://www.genesis.iespana.es/nena2.htm'>Dolores (Nena) Aguilar Etchechourry </a>","Dolores","Nena")
+add("<a href='http://www.genesis.iespana.es/julio0.htm'>Julio Aguilar </a>","Julio","")
+add("<a href='http://www.genesis.iespana.es/dolores0.htm'>Dolores Román </a>","Dolores","")
+add("<a href='http://www.genesis.iespana.es/juana1.htm'>Juana Aguilar Román </a>","Juana","")
+add("<a href='http://www.genesis.iespana.es/alberto3.htm'>Alberto Ordoñez Iruela </a>","Alberto","")
+add("<a href='http://www.genesis.iespana.es/susanal3.htm'>Susana Luque </a>","Susana","")
+add("<a href='http://www.genesis.iespana.es/ruth2.htm'>Ruth Iruela Aguilar </a>","Ruth","")
+add("<a href='http://www.genesis.iespana.es/benigno1.htm'>Benigno Iruela </a>","Benigno","")
+add("<a href='http://www.genesis.iespana.es/alberto2.htm'>Alberto Ordoñez </a>","Alberto","")
+add("<a href='http://www.genesis.iespana.es/virginia3.htm'>Virginia Ordoñez Iruela </a>","Virginia","")
+add("<a href='http://www.genesis.iespana.es/miguel3.htm'>Miguel Maluf </a>","Miguel","")
+add("<a href='http://www.genesis.iespana.es/pablom4.htm'>Pablo Maluf </a>","Pablo","")
+add("<a href='http://www.genesis.iespana.es/alisson5.htm'>Alisson Maluf Thume </a>","Angelines","")
+add("<a href='http://www.genesis.iespana.es/carolina4.htm'>Carolina Maluf Ordoñez </a>","Carolina","")
+add("<a href='http://www.genesis.iespana.es/stephanie4.htm'>Stephanie Maluf Ordoñez </a>","Stephanie","")
+add("<a href='http://www.genesis.iespana.es/luis3.htm'>Luis Barcellini </a>","Luis","")
+add("<a href='http://www.genesis.iespana.es/macristina3.htm'>María Cristina Ordoñez Iruela </a>","María","")
+add("<a href='http://www.genesis.iespana.es/domingo1.htm'>Domingo Aguilar Román </a>","Domingo","")
+add("<a href='http://www.genesis.iespana.es/maria1.htm'>María etchechourry </a>","María","")
+add("<a href='http://www.genesis.iespana.es/julio2.htm'>Julio Aguilar Etchechourry </a>","Julio","")
+add("<a href='http://www.genesis.iespana.es/cuca2.htm'>Cuca Cueva </a>","Cuca","")
+add("<a href='http://www.genesis.iespana.es/julio3.htm'>Julio Aguilar Cueva </a>","Julio","")
+add("<a href='http://www.genesis.iespana.es/andrea3.htm'>Andrea Bosch </a>","Andrea","")
+add("<a href='http://www.genesis.iespana.es/mario2.htm'>Mario aguilar Etchechourry </a>","Mario","")
+add("<a href='http://www.genesis.iespana.es/niata2.htm'>Ñata Diez del Valle </a>","Ñata","")
+add("<a href='http://www.genesis.iespana.es/alfredo3.htm'>Alfredo Conrad </a>","Alfredo","")
+add("<a href='http://www.genesis.iespana.es/isabel3.htm'>Isabel Aguilar Diez del Valle </a>","Isabel","")
+add("<a href='http://www.genesis.iespana.es/caio3.htm'>Ricardo Aznarez Aguilar </a>","Ricardo","Caio")
+add("<a href='http://www.genesis.iespana.es/susana3.htm'>Susana Medina </a>","Medina","")
+add("<a href='http://www.genesis.iespana.es/dolo4.htm'>Dolores Aznarez Medina </a>","Dolores","")
+add("<a href='http://www.genesis.iespana.es/guada4.htm'>Guadalupe Aznarez Medina </a>","Guadalupe","")
+add("<a href='http://www.genesis.iespana.es/pilar4.htm'>Pilar Aznarez Medina </a>","Pilar","")
+add("<a href='http://www.genesis.iespana.es/carlos3.htm'>Carlos Aznarez Aguilar </a>","Carlos","")
+add("<a href='http://www.genesis.iespana.es/lili3.htm'>Lilian Carini </a>","Lilian","Lili")
+add("<a href='http://www.genesis.iespana.es/gala4.htm'>Gala Aznarez Carini </a>","Gala","")
+add("<a href='http://www.genesis.iespana.es/juan4.htm'>Juan Aznarez Carini </a>","Juan","")
+add("<a href='http://www.genesis.iespana.es/gabo4.htm'>Gabriel Aznarez Carini </a>","Gabriel","Gabo")
+add("<a href='http://www.genesis.iespana.es/manuel4.htm'>Manuel Aznarez Tevez </a>","Manuel","")
+add("<a href='http://www.genesis.iespana.es/ricardo4.htm'>Ricardo Aznarez Medina </a>","Ricardo","")
+add("<a href='http://www.genesis.iespana.es/pato3.htm'>Patricia Tevez Mayouli </a>","Patricia","Pato")
+add("<a href='http://www.genesis.iespana.es/guido4.htm'>Guido Fernandez Federico </a>","Guido","")
+add("<a href='http://www.genesis.iespana.es/viky4.htm'>Victoria Aznarez Federico </a>","Victoria","Viky")
+add("<a href='http://www.genesis.iespana.es/adri3.htm'>Adriana Federico </a>","Adriana","")
+add("<a href='http://www.genesis.iespana.es/yaqui3.htm'>Jacqueline Aznarez Aguilar </a>","Jaqueline","Yaqui")
+add("<a href='http://www.genesis.iespana.es/martin3.htm'>Martín Cariniano </a>","Martín","")
+add("<a href='http://www.genesis.iespana.es/carlosr3.htm'>Carlos Rojas </a>","Carlos","")
+add("<a href='http://www.genesis.iespana.es/agustina4.htm'>Agustina Rojas Aznarez </a>","Agustina","Tuti")
+add("<a href='http://www.genesis.iespana.es/maria4.htm'>María Rojas Aznarez </a>","María","")
+add("<a href='http://www.genesis.iespana.es/pablo4.htm'>Pablo Rojas Aznarez </a>","Pablo","")
+add("<a href='http://www.genesis.iespana.es/tomas4.htm'>Tomás Criniano Aznarez </a>","Tomás","")
+add("<a href='http://www.genesis.iespana.es/raul3.htm'>Raúl Aznarez Aguilar </a>","Raúl","")
+add("<a href='http://www.genesis.iespana.es/zaida3.htm'>Zaida Ramirez </a>","Zaida","")
+add("<a href='http://www.genesis.iespana.es/elsa3.htm'>Elsa Habra </a>","Elsa","Elsy")
+add("<a href='http://www.genesis.iespana.es/amparo4.htm'>Amparo Aznarez Ramirez </a>","Amparo","")
+add("<a href='http://www.genesis.iespana.es/luciana4.htm'>Luciana Aznarez Habra </a>","Luciana","")
+add("<a href='http://www.genesis.iespana.es/sole4.htm'>Soledad Aznarez Habra </a>","Soledad","Sole")
+add("<a href='http://www.genesis.iespana.es/silvia3.htm'>Silvia Aguilar Cueva </a>","Silvia","")
+add("<a href='http://www.genesis.iespana.es/cacho3.htm'>Carlos Clark </a>","Cacho","")
+add("<a href='http://www.genesis.iespana.es/ezequiel4.htm'>Ezequiel Clark Aguilar </a>","Ezequiel","")
+add("<a href='http://www.genesis.iespana.es/martinc4.htm'>Martín Clark Aguilar </a>","Martín","")
+add("<a href='http://www.genesis.iespana.es/amelia1.htm'>Amelia Aguilar Román </a>","Amelia","")
+add("<a href='http://www.genesis.iespana.es/antonio1.htm'>Antonio Aguilar Román </a>","Antonio","")
+add("<a href='http://www.genesis.iespana.es/cerafina1.htm'>Cerafina Aguilar Román </a>","Cerafina","")
+add("<a href='http://www.genesis.iespana.es/jose1.htm'>José Aguilar Román </a>","José","")
+add("<a href='http://www.genesis.iespana.es/julio1.htm'>Julio Aguilar Román </a>","Julio","")
+add("<a href='http://www.genesis.iespana.es/pedro2.htm'>Pedro Aguilar </a>","Pedro","")
+add("<a href='http://www.genesis.iespana.es/tuca2.htm'>Tuca Gonzalez Aguilar </a>","Tuca","")
+add("<a href='http://www.genesis.iespana.es/elena2.htm'>elena Gonzalez Aguilar </a>","Elena","")
+add("<a href='http://www.genesis.iespana.es/porota2.htm'>Porota Gonzalez Aguilar </a>","Porota","")
+add("<a href='http://www.genesis.iespana.es/hector2.htm'>Hector Franco </a>","Hector","")
+
+
+
+add("<a href='http://www.iespana.es/.htm'>Título de la página: </a>","Palabras clave aquí ","Descripción de la página.")
+
+/* end database records */
+
+
+
