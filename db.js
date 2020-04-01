@@ -6,7 +6,7 @@
 	function templateBody() {
 		document.write('<html><head><title>Buscador</title><'+
 		'script language="Javascript">'+
-		'<'+'/'+'script'+'></head><body bgcolor="#FFFFFF" text="#000000" link="#000099" vlink="#996699" alink="#996699"><Center><font face="Arial" size="1"><font face=Verdana size=2><b>Pudes escribir el nombre de la persona que buscas </b></font><table border=0 width=440><tr><td>');
+		'<'+'/'+'script'+'></head><body bgcolor="#FFFFFF" text="#000000" link="#000099" vlink="#996699" alink="#996699"><Center><font face="Arial" size="1"><font face=Verdana size=2><b>Puedes escribir el nombre de la persona que buscas </b></font><table border=0 width=440><tr><td>');
 	}
 
 	function templateEnd() {
