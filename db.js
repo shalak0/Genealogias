@@ -20,7 +20,7 @@
 /* database records */
 
 add("<a href='/Genealogias/alejandro0.htm'>Alejandro Aznarez Iguacel </a>","Alejandro ","")
-add("<a href='http://www.genesis.iespana.es/andres1.htm'>Andres Marraco </a>","Andres ","")
+add("<a href='https://shalak0.github.io/Genealogias/andres1.htm'>Andres Marraco </a>","Andres ","")
 add("<a href='http://www.genesis.iespana.es/braulio1.htm'>Braulio Aznarez Vicente </a>","Braulio ","")
 add("<a href='http://www.genesis.iespana.es/carlosm2.htm'>Carlos Marraco Aznarez </a>","Carlos ","")
 add("<a href='http://www.genesis.iespana.es/concha1.htm'>Concha Aznarez Vicente </a>","Concha ","")
